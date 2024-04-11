@@ -1,5 +1,8 @@
 ## DayZ Killfeed Compatible with Xbox & Playstation
 
+# Installation
+To be added
+
 **Commands**  
 
 ```shell
