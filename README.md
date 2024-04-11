@@ -13,7 +13,7 @@ After adding your information run the commands below, first register then index.
 node register.js  # Registers commands on discord
 node index.js     # Runs the bot
 ```
-Done, a free killbot. Stop buying them.  
+**Done, a free killbot. Stop buying them.**  
 
 **Commands**  
 
