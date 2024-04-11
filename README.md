@@ -1,7 +1,16 @@
 ## DayZ Killfeed Compatible with Xbox & Playstation
 
 # Installation
-To be added
+
+1) Upload files to server running node 18 then
+```
+npm install
+```
+2) Edit config.json with your info
+```
+node register.js  # Registers commands on discord
+node index.js     # Runs the bot
+```
 
 **Commands**  
 
