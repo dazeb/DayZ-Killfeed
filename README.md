@@ -1,4 +1,4 @@
-##DayZ Killfeed Compatible with Xbox & Playstation
+## DayZ Killfeed Compatible with Xbox & Playstation
 
 **Commands**  
 
