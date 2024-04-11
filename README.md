@@ -4,7 +4,7 @@
   
 **/ac** serverlist getlist          
 
-**/admin** killfeed setup          (Create Required Bot Channels)  
+**/admin** killfeed setup ---------- (Create Required Bot Channels)  
 **/admin** killfeed start          (Start Killfeed)  
 **/admin** killfeed stop           (kill Killfeed Project)  
 **/admin** killfeed deathloc       (Toggle on/off death locations)  
